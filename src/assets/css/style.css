@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(223, 247, 242, 0.945);
+}
+.inicio{
+    text-align: center;
+    color: rgb(58, 66, 49);
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+#carouselExampleFade{
+    margin-top: 40px;
+}
+p{
+   color: rgb(31, 161, 165);
+   font-family: Arial, Helvetica, sans-serif;
+}
+#formas_pagamento{
+    color: #ff9900;
+}
+.menu a {
+    color: #fcba05;
+    text-decoration: none;  
+}
+.menu{
+    color: #ff9900;
+}
+#destino{
+    color: rgb(245, 173, 19);
+}
+#Pacotes{
+    color: rgb(250, 180, 29);
+}
+.contatos{
+    color: rgb(248, 160, 27);
+    padding: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    
+}
+#rodape{
+    color: darkorchid;
+    text-align: center;
+}
+.meudestino{
+    color: rgb(235, 178, 21);
+}
+#recode{
+    color: mediumslateblue;
+
+}
+.topo{
+   background-color: rgb(248, 192, 36);
+   display:flex;
+   justify-content: space-around;
+   align-items: center;
+}
+.promo{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.promo td {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 15px;
+    
+}
+.card img{
+
+    width: 250px;
+
+}
+.cards {
+    
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    justify-content: space-around;
+
+}
+.alinhar{
+    padding: 30px;
+
+}
+.alinhamento{
+    display: flex;
+}
+.alinhar img{
+    width: 20px;
+}
+.mensagem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+.promocao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+        .card-group{
+            background-color: #fcba05;
+            padding: 30px;
+            margin-bottom: 10px;
+            display: flex;
+        }
